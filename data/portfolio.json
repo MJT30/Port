@@ -1,10 +1,10 @@
 {
   "name": "Myles Turner",
-  "headerTaglineOne": "Hello ",
-  "headerTaglineTwo": "I am Myles Turner a,",
-  "headerTaglineThree": "designer and devloper",
+  "headerTaglineOne": "Howdy🤠",
+  "headerTaglineTwo": "I am Myles Turner ",
+  "headerTaglineThree": "a designer and developer",
   "headerTaglineFour": " based in Los Angeles, California.",
-  "showCursor": false,
+  "showCursor": true,
   "showBlog": true,
   "darkMode": true,
   "showResume": true,
@@ -15,8 +15,6 @@
       "title": "LinkedIn",
       "link": "https://www.linkedin.com/in/mylesturner/"
     },
-    { "id": "3", "title": "Twitter", "link": "https://twitter.com/mylest913" },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
     { "id": "5", "title": "Email", "link": "mailto:mylest913@gmail.com" }
   ],
   "projects": [
@@ -66,7 +64,7 @@
       "description": "Whether in person or over the web, I can help with any technical problem."
     }
   ],
-  "aboutpara": "I am a Software Engineer located in the Greater Los Angeles area. My history of working in customer service motivates me to build connections with people and always help them solve any problem.  As someone who is pivoting careers, I always learn and improve my skills with new technologies. & methodologies. \n\n\nI have a few years of college and a certificate of completion from General Assembly's Software Engineering Immersive course. I am looking to go back to school to earn my Bachelors's in Game Programing from The Academy of Art University in the near future in order to provide new opportunities for myself. \n\nI am an avid gamer. I am quite of a nerd when it comes to Video Games, Film, Sci-fi, Anime & Manga. I collect Funko Pops and like to build Star Wars LEGOS. My favorite movie is Blade Runner 2049. When I'm not doing nerdy things, I like to spend time with my Dogs and cat. I also enjoy cooking, I'm quite a foodie and I love to go hiking on the weekdays. ",
+  "aboutpara": "I am a Software Engineer located in the Greater Los Angeles area. My history of working in customer service motivates me to build connections with people and always help them solve any problem.  As someone who is pivoting careers, I always learn and improve my skills with new technologies & methodologies. \n\n\nWith 10+ years of customer service experience, I have completed college courses in game design and communications, and I have received a certificate of completion from General Assembly's Software Engineering Immersive course. \n\nI am an avid gamer. I am quite a nerd in Video Games, Film, Sci-fi, Anime & Manga. I collect Funko Pops and like to build Star Wars LEGOS. My favorite movie is Blade Runner 2049. When I'm not doing nerdy things, I want to spend time with my Dogs and cat. I also enjoy cooking, I'm quite a foodie and I love to go hiking on the weekdays. ",
   "resume": {
     "tagline": "👋  I'm a Software Developer",
     "description": "Well-versed with React, Javascript, and most of the Web frameworks.",
