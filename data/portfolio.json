@@ -1,7 +1,7 @@
 {
   "name": "Myles Turner",
-  "headerTaglineOne": "Hello ",
-  "headerTaglineTwo": "I am Myles Turner a,",
+  "headerTaglineOne": "Howdy 🤠 ",
+  "headerTaglineTwo": "I am Myles Turner a",
   "headerTaglineThree": "designer and devloper",
   "headerTaglineFour": " based in Los Angeles, California.",
   "showCursor": false,
@@ -15,17 +15,17 @@
       "title": "LinkedIn",
       "link": "https://www.linkedin.com/in/mylesturner/"
     },
-    { "id": "3", "title": "Twitter", "link": "https://twitter.com/mylest913" },
+   
    
     { "id": "5", "title": "Email", "link": "mailto:mylest913@gmail.com" }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Games you Love",
-      "description": "Web Development ",
-      "imageSrc": "https://images.unsplash.com/photo-1511512578047-dfb367046420?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2942&q=80",
-      "url": "https://github.com/MJT30/Video-Game-App"
+      "title": "My Hero Academia Database(WIP)",
+      "description": "Database",
+      "imageSrc": "https://images.unsplash.com/photo-1665042099439-39d93c1117e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1712&q=80",
+      "url": "https://github.com/MJT30/MyHero"
     },
     {
       "id": "2",
@@ -36,10 +36,12 @@
     },
     {
       "id": "3",
-      "title": "My Hero Academia Database(WIP)",
-      "description": "Database",
-      "imageSrc": "https://images.unsplash.com/photo-1665042099439-39d93c1117e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1712&q=80",
-      "url": "https://github.com/MJT30/MyHero"
+     "title": "Games you Love",
+      "description": "Web Development ",
+      "imageSrc": "https://images.unsplash.com/photo-1511512578047-dfb367046420?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2942&q=80",
+      "url": "https://github.com/MJT30/Video-Game-App"
+
+
     },
     {
       "id": "4",
