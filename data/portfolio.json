@@ -27,7 +27,7 @@
   "projects": [
     {
       "id": "1",
-      "title": "My Hero Academia Database(WIP)",
+      "title": "My Hero Academia Database",
       "description": "Database",
       "imageSrc": "https://images.unsplash.com/photo-1665042099439-39d93c1117e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1712&q=80",
       "url": "https://github.com/MJT30/MyHero"
