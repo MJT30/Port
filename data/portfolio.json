@@ -5,7 +5,7 @@
   "headerTaglineThree": "designer and developer",
   "headerTaglineFour": " based in Los Angeles, California.",
   "showCursor": false,
-  "showBlog": true,
+  "showBlog": false,
   "darkMode": true,
   "showResume": true,
   "socials": [
