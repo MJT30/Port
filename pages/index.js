@@ -132,22 +132,9 @@ export default function Home() {
         <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
           <h1 className="tablet:m-10 text-2xl text-bold">About.</h1>
           <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
-            I am a Software Engineer located in the Greater Los Angeles area. My
-            history of working in customer service motivates me to build
-            connections with people and always help them solve any problem. As
-            someone who is pivoting careers, I always learn and improve my
-            skills with new technologies. & methodologies.<br></br>
-            <br></br> I have a few years of college and a certificate of
-            completion from General Assembly's Software Engineering Immersive
-            course. I am looking to go back to school to earn my Bachelors's in
-            Game Programing from The Academy of Art University in the near
-            future in order to provide new opportunities for myself.<br></br>
-            <br></br> I am an avid gamer. I am quite of a nerd when it comes to
-            Video Games, Film, Sci-fi, Anime & Manga. I collect Funko Pops and
-            like to build Star Wars LEGOS. My favorite movie is Blade Runner
-            2049. When I'm not doing nerdy things, I like to spend time with my
-            Dogs and cat. I also enjoy cooking, I'm quite a foodie and I love to
-            go hiking on the weekdays.
+            I am a Software Engineer and Filmmaker located in the Greater Los Angeles area.<br></br>
+            <br></br> As someone who is pivoting careers, I always learn and improve my skills with new technologies. & methodologies.<br></br>
+            <br></br>I have a few years of college and a certificate of completion from General Assembly's Software Engineering Immersive course. I like to spend time with my Dogs and cat. I also enjoy cooking, I'm quite a foodie and I love to go hiking on the weekdays.
           </p>
         </div>
         <Footer />
