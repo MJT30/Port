@@ -1,13 +1,13 @@
 {
   "name": "Myles Turner",
-  "headerTaglineOne": "Howdy 🤠 ",
-  "headerTaglineTwo": "I am Myles Turner a",
-  "headerTaglineThree": "designer and developer",
-  "headerTaglineFour": " based in Los Angeles, California.",
+  "headerTaglineOne": "My name is Myles Turner",
+  "headerTaglineTwo": "I am a filmmaker/ software developer ",
+  "headerTaglineThree": "based in Los Angeles, California.",
+  "headerTaglineFour": " ",
   "showCursor": false,
   "showBlog": false,
   "darkMode": true,
-  "showResume": true,
+  "showResume": false,
   "socials": [
     { "id": "1", "title": "Github", "link": "https://github.com/MJT30" },
     {
@@ -21,7 +21,7 @@
      {
       "id": "4eff27e8-db39-4608-8404-7f6e80088635",
       "title": "Download Resume",
-      "link": "https://drive.google.com/file/d/17hFtH_hJFaFISIoBgQdc37fKZqoJrHnJ/view?usp=sharing"
+      "link": "https://drive.google.com/file/d/17hFtH_hJFaFISIoBgQdc37fKZqoJrHnJ/view?usp=drive_link"
     }
   ],
   "projects": [
@@ -34,10 +34,10 @@
     },
     {
       "id": "2",
-      "title": "Trail Blazers",
-      "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1551632811-561732d1e306?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80",
-      "url": "https://github.com/CoreyLongDev/trailblazer-frontend"
+      "title": "TLaurent's Bizarre Adventure",
+      "description": "Short Film",
+      "imageSrc": "https://images.unsplash.com/photo-1493804714600-6edb1cd93080?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://youtu.be/7FB5bz4yfyI?si=H5FipB5OtV9rv0L2"
     },
     {
       "id": "3",
@@ -59,8 +59,8 @@
   "services": [
     {
       "id": "3",
-      "title": "Web Design",
-      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      "title": "Film editing",
+      "description": "Film editing for short films using Adobe applications"
     },
     {
       "id": "7ebd507e-7adc-42c2-8c45-985c5f72b58a",
@@ -73,7 +73,7 @@
       "description": "Whether in person or over the web, I can help with any technical problem."
     }
   ],
-  "aboutpara": "I am a Software Engineer located in the Greater Los Angeles area. My history of working in customer service motivates me to build connections with people and always help them solve any problem.  As someone who is pivoting careers, I always learn and improve my skills with new technologies. & methodologies. \n\n\nI have a few years of college and a certificate of completion from General Assembly's Software Engineering Immersive course.  \n\nI am an avid gamer. I am quite of a nerd when it comes to Video Games, Film, Sci-fi, Anime & Manga. I collect Funko Pops and like to build Star Wars LEGOS. My favorite movie is Blade Runner 2049. When I'm not doing nerdy things, I like to spend time with my Dogs and cat. I also enjoy cooking, I'm quite a foodie and I love to go hiking on the weekdays. ",
+  "aboutpara": "I am a Software Engineer located in the Greater Los Angeles area. My history of working in customer service motivates me to build connections with people and always help them solve any problem.  As someone who is pivoting careers, I always learn and improve my skills with new technologies. & methodologies. \n\n\nI have a few years of college and a certificate of completion from General Assembly's Software Engineering Immersive course. I like to spend time with my Dogs and cat. I also enjoy cooking, I'm quite a foodie and I love to go hiking on the weekdays. ",
   "resume": {
     "tagline": "👋  I'm a Software Developer",
     "description": "Well-versed with React, Javascript, and most of the Web frameworks.",
