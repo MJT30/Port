@@ -134,7 +134,7 @@ export default function Home() {
           <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
             I am a Software Engineer and Filmmaker located in the Greater Los Angeles area.<br></br>
             <br></br> As someone who is pivoting careers, I always learn and improve my skills with new technologies. & methodologies.<br></br>
-            <br></br>I have a few years of college and a certificate of completion from General Assembly's Software Engineering Immersive course. I like to spend time with my Dogs and cat. I also enjoy cooking, I'm quite a foodie and I love to go hiking on the weekdays.
+            <br></br>I am a college student and West Los Angeles College in Culver City, CA., And I hold a certificate of completion from General Assembly's Software Engineering Immersive course. I like to spend time with my Dogs and cat. I also enjoy cooking, I'm quite a foodie and I love to go hiking on the weekdays.
           </p>
         </div>
         <Footer />
