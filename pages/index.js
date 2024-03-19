@@ -132,9 +132,15 @@ export default function Home() {
         <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
           <h1 className="tablet:m-10 text-2xl text-bold">About.</h1>
           <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
-            I am a Software Engineer and Filmmaker located in the Greater Los Angeles area.<br></br>
-            <br></br> As someone who is pivoting careers, I always learn and improve my skills with new technologies. & methodologies.<br></br>
-            <br></br>I am a college student and West Los Angeles College in Culver City, CA., And I hold a certificate of completion from General Assembly's Software Engineering Immersive course. I like to spend time with my Dogs and cat. I also enjoy cooking, I'm quite a foodie and I love to go hiking on the weekdays.
+            <p>
+              I am a creative web developer based in the Greater Los Angeles
+              area. Currently, I am pursuing my college education. When I am not
+              studying, I enjoy pursuing my hobby of photography,
+              cinematography, and watching films. I am keen on transitioning to
+              a technical role in the entertainment industry. If you have any
+              questions about any of the services I offer, please do reach out
+              via email.
+            </p>
           </p>
         </div>
         <Footer />
