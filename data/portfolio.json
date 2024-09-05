@@ -1,8 +1,8 @@
 {
   "name": "Myles Turner",
   "headerTaglineOne": "Hello",
-  "headerTaglineTwo": "my name is Myles Turner ",
-  "headerTaglineThree": "I am designer and developer",
+  "headerTaglineTwo": "My name is Myles Turner ",
+  "headerTaglineThree": "I am a designer and developer",
   "headerTaglineFour": " based in Los Angeles, California.",
   "showCursor": false,
   "showBlog": true,
@@ -39,10 +39,10 @@
     },
     {
       "id": "3",
-      "title": "Games you Love",
-      "description": "Web Development ",
-      "imageSrc": "https://images.unsplash.com/photo-1511512578047-dfb367046420?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2942&q=80",
-      "url": "https://github.com/MJT30/Video-Game-App"
+      "title": "Hades (2020) Game Review",
+      "description": "Video Game Review ",
+      "imageSrc": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://docs.google.com/document/d/1i8LXXuIcBrEqyFl0yCbW_p6-BdwNwfgJQtDbDP6g76o/edit?usp=sharing"
     },
     {
       "id": "4",
@@ -56,12 +56,12 @@
     {
       "id": "3",
       "title": "Film editing",
-      "description": "Film editing for short films using Adobe applications"
+      "description": "Film editing using Adobe applications"
     },
     {
       "id": "7ebd507e-7adc-42c2-8c45-985c5f72b58a",
-      "title": "Solutions Engineering ",
-      "description": "Working with clients to find and provide solutions to software issues."
+      "title": "Video Game Reviews ",
+      "description": "Written Video game reviews with videos coming soon"
     },
     {
       "id": "8d51985f-15c5-4df1-b0e4-345b6159858e",
@@ -69,11 +69,10 @@
       "description": "Whether in person or over the web, I can help with any technical problem."
     }
   ],
-  "aboutpara": "I am a creative web developer based in the Greater Los Angeles
-              area. Currently, I am pursuing my college education. When I am not
+  "aboutpara": "I am a creative based in the Greater Los Angeles
+              area. Currently, I am pursuing my college education in Communications & Media management. When I am not
               studying, I enjoy pursuing my hobby of photography,
-              cinematography, and watching films. I am keen on transitioning to
-              a technical role in the entertainment industry. If you have any
+              cinematography, video games, and watching films. If you have any
               questions about any of the services I offer, please do reach out
               via email.",
   "resume": {
